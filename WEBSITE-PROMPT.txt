@@ -1,0 +1,22 @@
+PROMPT TO RECREATE THIS DESIGN WITH DIFFERENT CONTENT
+
+Create a premium, responsive, multi-section Muslim wedding invitation website inspired by an elegant editorial wedding invitation. Use a warm ivory/white background, deep maroon and antique-gold accents, delicate ornamental borders, subtle floral/arabesque details, and a maroon wax-seal emblem instead of any cross or Christian symbol. Use elegant serif typography (Cormorant Garamond or a similar high-contrast serif) with a romantic calligraphy script for the couple's names (Great Vibes or a close equivalent). Keep the layout graceful, spacious, cinematic, and mobile-first.
+
+Include: (1) a full-screen invitation cover with the couple's uploaded photograph, wax seal, names, wedding date and an “Open Invitation” button; (2) a dramatic hero section with Bismillah, names and a live countdown; (3) bride and groom family introduction cards; (4) Nikah date, time and venue with a Google Maps link; (5) a warm invitation message; (6) best-wishes names; and (7) a matching closing footer. Animate all sections with gentle fade/slide reveals, subtle floating gold ornaments/petals, smooth scrolling, and tasteful hover transitions. The countdown must use the event's local timezone. Make all text, names, family details, date, time, venue, map destination, and best-wishes content easy to replace. Ensure accessible contrast, responsive layouts, and no broken image placeholders. Do not use crosses, church imagery, Bible verses, or Christian symbols; this is a Muslim Nikah invitation.
+
+Replace the sample content with:
+Bride: [BRIDE NAME]
+Bride's parents: [PARENTS]
+Bride's address: [ADDRESS]
+Groom: [GROOM NAME]
+Groom's parents: [PARENTS]
+Groom's address: [ADDRESS]
+Wedding date: [DATE]
+Nikah time: [TIME]
+Venue: [VENUE]
+Best wishes: [NAMES]
+Uploaded couple photo: [IMAGE FILE]
+Colour palette: maroon, antique gold, ivory/white, with optional black text.
+
+
+OPENING INTERACTION REQUIREMENT (IMPORTANT): Start with a plain, full-screen deep-maroon invitation cover only. Do not show the couple photo or invitation content on the first screen. Use a fine antique-gold border, restrained Islamic geometric/floral ornament, centered couple names and wedding date, and one large circular maroon wax seal in the exact center with a subtle gold crescent/Islamic motif and initials. The wax seal is the only primary control. Add the instruction “TOUCH THE SEAL TO OPEN”. On click/tap, animate the wax seal pressing/breaking and the cover unfolding/fading away, then reveal the entire wedding website from its first section through the footer. Do not require a second “Open Invitation” click. Keep the seal accessible by keyboard, mobile responsive, and respect reduced-motion preferences.
